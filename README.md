@@ -14,7 +14,7 @@ Target : MGMT_value-> das Vorhandensein von MGMT-Promotor-Methylierung
 
 Hardware: Google Colab Pro, Runtime type: A100, System RAM: 4.3/83.5 GB, GPU RAM: 30.5/40.0 GB, Disk 167 / 235.7 GB
 
+[Code](https://github.com/moanesga/moanesga-RSNA-Monai-3D_Classification_Brain_Tumor/blob/main/RSNA_Monai_3D_Classification_Brain_Tumor.ipynb)
 
-Quelle:
-https://www.kaggle.com/competitions/rsna-miccai-brain-tumor-radiogenomic-classification/overview
+[Quelle](https://www.kaggle.com/competitions/rsna-miccai-brain-tumor-radiogenomic-classification/overview)
 
